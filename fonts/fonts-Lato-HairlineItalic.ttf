@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<meta charset=utf-8>
+<link rel=icon type="image/x-icon" href="/assets/favicon-098508fa26204f46e13a4959b6ca54582c86e976.ico"/>
+<link href='/xapple-icon-57x57.png.pagespeed.ic.7L8hqAyumC.png' rel=apple-touch-icon sizes=57x57>
+<link href='/xapple-icon-60x60.png.pagespeed.ic.UJ5S8wkzmv.png' rel=apple-touch-icon sizes=60x60>
+<link href='/xapple-icon-72x72.png.pagespeed.ic.jSciNuDTYQ.png' rel=apple-touch-icon sizes=72x72>
+<link href='/xapple-icon-76x76.png.pagespeed.ic.Obei9qgwKC.png' rel=apple-touch-icon sizes=76x76>
+<link href='/xapple-icon-114x114.png.pagespeed.ic.Ziozwucg4b.png' rel=apple-touch-icon sizes=114x114>
+<link href='/xapple-icon-120x120.png.pagespeed.ic.1LS1006VOt.png' rel=apple-touch-icon sizes=120x120>
+<link href='/xapple-icon-144x144.png.pagespeed.ic.4QaxoDyt-Q.png' rel=apple-touch-icon sizes=144x144>
+<link href='/xapple-icon-152x152.png.pagespeed.ic.FQ5RuV5o8R.png' rel=apple-touch-icon sizes=152x152>
+<link href='/xapple-icon-180x180.png.pagespeed.ic.QDt51wTfZn.png' rel=apple-touch-icon sizes=180x180>
+<link href='/xandroid-icon-192x192.png.pagespeed.ic.ypKu2Xoj17.png' rel=icon sizes=192x192 type='image/png'>
+<link href='/xfavicon-32x32.png.pagespeed.ic.j6SlfhlaAv.png' rel=icon sizes=32x32 type='image/png'>
+<link href='/xfavicon-96x96.png.pagespeed.ic.d8pi2N_gz4.png' rel=icon sizes=96x96 type='image/png'>
+<link href='/xfavicon-16x16.png.pagespeed.ic.D8z1Uwry3m.png' rel=icon sizes=16x16 type='image/png'>
+<link href='/manifest.json' rel=manifest>
+<meta content='#ffffff' name=msapplication-TileColor>
+<meta content='/ms-icon-144x144.png' name=msapplication-TileImage>
+<meta content='#ffffff' name=theme-color>
+<meta content='Scaling Scrum,Scaled Agile,Large Scale Scrum,Large-Scale Scrum,Scaled Agile Framework,Scaling,Scaling Agile,Training,Courses' name=keywords>
+<link href='/humans.txt' rel=author type='text/plain'>
+<link as=font crossorigin=true href='/fonts/glyphicons-halflings-regular.woff2' rel=preload type='font/woff2'>
+<meta content='IE=edge' http-equiv=X-UA-Compatible>
+<title>Scaling Scrum, Scaled Agile - Large Scale Scrum (LeSS)</title>
+<link rel=stylesheet href="/assets/A.application-24e2d977733240b3b817df41d3ec585c6428a1fc.css.pagespeed.cf.QsliWh5mFp.css" media=all />
+<!--[if lte IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<meta content='width=device-width, initial-scale=1.0' name=viewport>
+<link href="https://less.works/404" rel=canonical />
+<meta name=csrf-param content=authenticity_token />
+<meta name=csrf-token content=AfYwiH2hFg5BGuHWUty3jlt9JC6rBRjAh7yTETA0w4EpuKkXJo_W71YZRl3Gk2ptONME80qv72mZEQhhpkmT0g />
+<script src="/assets/application-d6cc13157e3c3ad6f7693777e76905b49eb728f9.js" data-turbolinks-track=true defer=defer></script>
+<meta property=og:type content=article /><meta property=og:site_name content="Large Scale Scrum (LeSS)"/><meta property=og:description content="LeSS is agile scaled by creating simpler organizations"/><meta property=og:locale content=en /><meta property=fb:app_id content=718173691656830 /><meta property=og:image content="https://less.works/LeSS-logos/LeSS-logo-edged.png"/><meta property=twitter:image content="https://less.works/LeSS-logos/LeSS-logo-edged.png"/><meta property=og:url content="https://less.works/404"/><meta property=og:title content="Scaling Scrum, Scaled Agile - Large Scale Scrum (LeSS)"/><meta property=twitter:title content="Scaling Scrum, Scaled Agile - Large Scale Scrum (LeSS)"/>
+</head>
+<body class=''><noscript><meta HTTP-EQUIV="refresh" content="0;url='https://less.works/assets//fonts/Lato-HairlineItalic.ttf?PageSpeed=noscript'" /><style><!--table,div,span,font,p{display:none} --></style><div style="display:block">Please click <a href="https://less.works/assets//fonts/Lato-HairlineItalic.ttf?PageSpeed=noscript">here</a> if you are not redirected within a few seconds.</div></noscript>
+<header>
+<div class='container-fluid navbar-base navbar-fixed-top'>
+<div class=container>
+<div class=float-end>
+<div class=navbar-expand-md>
+<div class='navbar-collapse collapse' id=option-menu>
+<div class=header-button>
+<div role=group class="btn-group btn-group-sm"><a class="btn  btn-secondary" href="/user/sign-in">Login</a></div><div role=group class="btn-group btn-group-sm"><a class="btn  btn-secondary" href="/blog">Blog</a></div><div role=group class="btn-group btn-group-sm"><a class="btn  btn-secondary" href="/users">Member Directory</a></div><div role=group class="btn-group btn-group-sm"><a class="btn  btn-secondary" href="/search">Search</a></div><div role=group class="btn-group btn-group-sm"><button class="btn btn-secondary dropdown-toggle" data-bs-toggle=dropdown><img id=setlang alt=English src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAB6ElEQVQoz2OYNHPfjqtvqqcfS2kGosOJjQdu3n27NrlxTUIdkOGZvc0jbYdtzIaoxp1zAvOr5x5lWLLi1P+Nq/79+3/74ZdFG27PX38HyP4/ped/XyuQMWnh5d65F06eePyvq+bf358TNl1gSGo5uOfku/9Ll/8/uPf///9t064Cyf+pmf8TEoF0Sd+lL4vWfO/uBrLnrbokaTIDpGHhhrt1E68+3Hf/T1P9fwiIifkfHgFi5Gb+f/Hiwp23jp7Li5qOCOpOZAA6FOQGNBAa+t/PD00MqOzMtZcMaxJr/0/u+J+S8j8+/n9k5P+QEJBSH59/rq6/7O1/Wlp+NzH5qqf3VVv7Z7Bbq7wVDhtsbf+YWUDMBeK/f//++fvn958/J6++YLCP29Qz53xU2o4rV9//f/vmZ3I8SJWRyW99Q7CGv0+dHPfP3CohPSskYT2DcDaDedi6xetBIfO5se5DV1dMyTEg+4+27i9NbaCrreyX/Pz//8usuS8SYpqmnmMQTGeYvPnyv39/v7dXHD1wu7DhYF7DYaAL/4Z4/A5y/vf3b3jattC41dsP3/r758frBN/soiUMVfMOTHFJds5cJKgzh0djMofqhPPXXrRKW7SIm5y+8pJBvJhBtIBBOFfEsK53z3VX0zwAPExoqi63l4YAAAAASUVORK5CYII="></button><ul class="dropdown-menu dropdown-menu-right" role=menu></ul></div>
+</div>
+</div>
+</div>
+</div>
+<div class=logo-top-left>
+<a href="/"><img alt='Large-Scale Scrum Logo' class=absolute-brand src='/img/xLess-Logo-7.png.pagespeed.ic.sy6lqfhSef.png'>
+</a>
+</div>
+<div class=more-with-less>
+<a class="top-slogan navbar-brand" href="/less/principles/more-with-less">More with LeSS</a>
+</div>
+<div class='top-menus float-end'>
+<div class=navbar-expand-md>
+<button class='navbar-toggler collapsed' data-bs-target='#option-menu' data-bs-toggle=collapse type=button>
+<span class=visually-hidden>Toggle navigation</span>
+<span class='glyphicon glyphicon-th-large'></span>
+</button>
+</div>
+</div>
+<div class=navbar-expand-md>
+<div class='top-menus float-end'>
+<button aria-controls=main_menu aria-expanded=false class=navbar-toggler data-bs-target='#main_menu' data-bs-toggle=collapse type=button>
+<span class=visually-hidden>Toggle navigation</span>
+<span class='glyphicon glyphicon-menu-hamburger'></span>
+</button>
+</div>
+</div>
+<div class='nav navbar-less'>
+<div class='navbar-brand top-link-for-print float-end'>
+Large Scale Scrum
+http://less.works
+</div>
+<nav class='navbar navbar-expand-md ms-auto'>
+<div class='navbar-collapse collapse' id=main_menu>
+<ul class="nav navbar-nav"><li class="dropdown "><a data-bs-toggle=dropdown href="/less/framework">LeSS</a><ul class="dropdown-menu " role=menu><li class="dropdown-item "><a href="/less/framework">LeSS Framework</a></li><li class="dropdown-item "><a href="/less/principles">Principles</a></li><li class="dropdown-item "><a href="/less/structure">Structure</a></li><li class="dropdown-item "><a href="/less/management">Management</a></li><li class="dropdown-item "><a href="/less/technical-excellence">Technical Excellence</a></li><li class="dropdown-item "><a href="/less/adoption">Adoption</a></li><li class="dropdown-item "><a href="/less/education">Education</a></li><li class="dropdown-item "><a href="/less/less-huge">LeSS Huge</a></li><li class="dropdown-item "><a href="/less/rules">LeSS Rules (November 2024)</a></li><li class="dropdown-item "><a href="/less/scrum-guide">Scrum Guide (LeSS Version)</a></li><li class="dropdown-item "><a href="/less/scrum">One Team Scrum</a></li><li class="dropdown-item "><a href="/less/assessment">LeSS Assessments</a></li><li class="dropdown-item "><a href="/less/site">About LeSS.works</a></li></ul></li><li class="dropdown "><a data-bs-toggle=dropdown href="/courses/less-courses">Find Courses &amp; Events</a><ul class="dropdown-menu " role=menu><li class="dropdown-item "><a href="/courses/less-courses">LeSS Courses</a></li><li class="dropdown-item "><a href="/courses/less-supporting-courses">LeSS Supporting Courses</a></li><li class="dropdown-item "><a href="/courses/scrum-courses">LeSS-Friendly Scrum Courses</a></li><li class="dropdown-item "><a href="/courses/less-events">LeSS Events</a></li><li class="dropdown-item "><a href="/courses/../less-conferences">LeSS Conferences</a></li><li class="dropdown-item "><a href="/courses/less-trainers">LeSS Trainers</a></li><li class="dropdown-item "><a href="/courses/become-less-trainer">Becoming a LeSS Trainer</a></li><li class="dropdown-item "><a href="/courses/become-less-friendly-scrum-trainer">Becoming a LeSS-Friendly Scrum Trainer</a></li></ul></li><li class="dropdown "><a data-bs-toggle=dropdown href="/coaching">Coaching</a><ul class="dropdown-menu " role=menu><li class="dropdown-item "><a href="/coaching/coaches">Certified Coaches</a></li><li class="dropdown-item "><a href="/coaching/coaching-companies">Certified Coaching Companies</a></li><li class="dropdown-item "><a href="/coaching/guidelines-for-selecting-coach">Choosing the Right Coach</a></li><li class="dropdown-item "><a href="/coaching/becoming-coach">Becoming a LeSS Coach</a></li><li class="dropdown-item "><a href="/coaching/becoming-coaching-company">Becoming a Coaching Company</a></li></ul></li><li class="dropdown "><a data-bs-toggle=dropdown href="/case-studies">Case Studies</a><ul class="dropdown-menu dropdown-menu-right" role=menu><li class="dropdown-item "><a href="/case-studies/agfa-healthcare">Agfa Healthcare</a></li><li class="dropdown-item "><a href="/case-studies/bmw-group">BMW Group - Unified Sales Platform</a></li><li class="dropdown-item "><a href="/case-studies/bmw-group-autonomous-driving">BMW Group — LeSS Huge at Autonomous Driving</a></li><li class="dropdown-item "><a href="/case-studies/cash-in-comfort">Cash-in Comfort (pseudo name)</a></li><li class="dropdown-item "><a href="/case-studies/german-big-insurance">German Big Insurance (pseudo name)</a></li><li class="dropdown-item "><a href="/case-studies/huawei">Huawei</a></li><li class="dropdown-item "><a href="/case-studies/large-dutch-bank">Large Dutch Bank (pseudo name)</a></li><li class="dropdown-item "><a href="/case-studies/large-server-hardware-company">Large Server Hardware Company (pseudo name)</a></li><li class="dropdown-item "><a href="/case-studies/nokia-networks-high-capacity-network-gateway">Nokia Networks - High Capacity Network Gateway</a></li><li class="dropdown-item "><a href="/case-studies/merkur">Merkur</a></li><li class="dropdown-item "><a href="/case-studies/port-of-rotterdam">Port of Rotterdam</a></li><li class="dropdown-item "><a href="/case-studies/rbs">RBS</a></li><li class="dropdown-item "><a href="/case-studies/sys">Sys Store (pseudo name)</a></li><li class="dropdown-item "><a href="/case-studies/mts-kassa">MTS</a></li><li class="dropdown-item "><a href="/case-studies/solarwinds">Solarwinds</a></li><li class="dropdown-item "><a href="/case-studies/sita">Sita - Border Security</a></li><li class="dropdown-item "><a href="/case-studies/thales-surface-radar">Thales - Surface Radar</a></li><li class="dropdown-item "><a href="/case-studies/very-big-bank">Very Big Bank (pseudo name)</a></li><li class="dropdown-item "><a href="/case-studies/ysoft">Y Soft</a></li><li class="dropdown-item "><a href="/case-studies/short-case-studies">> Short LeSS Case Studies</a></li><li class="dropdown-item "><a href="/case-studies/other-less-case-studies">> Other LeSS Case Studies</a></li></ul></li><li class="dropdown "><a data-bs-toggle=dropdown href="/resources/learning-resources">Resources</a><ul class="dropdown-menu dropdown-menu-right" role=menu><li class="dropdown-item "><a href="/resources/learning-resources">Learning Resources</a></li><li class="dropdown-item "><a href="/resources/training-resources">Training Resources</a></li><li class="dropdown-item "><a href="/resources/graphics">Graphics</a></li><li class="dropdown-item "><a href="/resources/communities">Communities</a></li><li class="dropdown-item "><a href="/resources/games">Games</a></li></ul></li></ul>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</header>
+<div class=additional-main>
+<div id=notice-bar>
+<div id=page-notice-course-3965 class=bar><div class="alert alert-dismissible alert-info"><div>Upcoming course:<a href="/course-details/product-discovery-definition-business-agility-workshop-online-new-york-3965">Product Discovery/Definition &amp; Business Agility Workshop in (Online) New York on December 16, 2024</a></div><span class="btn-close close-button"> </span></div></div>
+</div>
+</div>
+<div>
+<div class=exception data-status=404 data-response="Not found" data-rails=7.1.3.2>
+<span>Sorry, this page is missing!</span>
+</div>
+</div>
+<footer>
+<div id=footer>
+<div class=container>
+<p>
+<small>Copyright © 2014 ~ 2024
+<a href='http://less.works'>The LeSS Company B.V.</a>
+All Rights Reserved
+</small>
+</p>
+<div class=footer-links>
+<p>
+<a href="/resources/about">About Us</a>
+|
+<a href="/resources/privacy">Privacy</a>
+|
+<a href="/resources/support">Support</a>
+|
+<a href="/resources/contact">Contact Us</a>
+</p>
+<p>
+<a class=btn href='https://twitter.com/less_works' target=_blank>
+<i class='svgbtn svgbtn--twitter'></i>
+</a>
+<a class=btn href='https://www.facebook.com/less.works' target=_blank>
+<i class='svgbtn svgbtn--facebook'></i>
+</a>
+<a class=btn href='https://www.linkedin.com/company/the-less-company' target=_blank>
+<i class='svgbtn svgbtn--linkedin'></i>
+</a>
+<a class=btn href='https://www.youtube.com/channel/UCKMzkybDzfqKP46FHhSziXQ' target=_blank>
+<i class='svgbtn svgbtn--youtube'></i>
+</a>
+</p>
+</div>
+</div>
+</div>
+</footer>
+<script async='' src='https://www.googletagmanager.com/gtag/js?id=G-1JLCLWNXT8'></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-1JLCLWNXT8');</script>
+<script async='' src='https://rum-static.pingdom.net/pa-5aa9c89a0b346800070004ad.js'></script>
+</body>
+</html>
